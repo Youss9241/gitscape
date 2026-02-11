@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/Youss9241/gitscape#readme",
   "devDependencies": {
-    "eslint": "^10.0.0"
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "globals": "^17.3.0"
   },
   "dependencies": {
     "acorn": "^8.15.0",
